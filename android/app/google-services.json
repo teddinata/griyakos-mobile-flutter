@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651785863169",
+    "project_id": "griyakos-5f096",
+    "storage_bucket": "griyakos-5f096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651785863169:android:21ea87537e6843388d0000",
+        "android_client_info": {
+          "package_name": "com.example.mobilekos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651785863169-mv87vbqjb8f6raudp28p8da40gtfnten.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VlG6youwdqSuNP8KegQnbpsHOkQJd-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651785863169-mv87vbqjb8f6raudp28p8da40gtfnten.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
