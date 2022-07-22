@@ -6,8 +6,7 @@ import 'package:mobilekos/models/space.dart';
 
 class SpaceProvider extends ChangeNotifier {
   getRecommendedSpaces() async {
-    var result =
-        await http.get('http://api-kos.teddinata.com/kos');
+    var result = await http.get('http://api-kos-2022.creazylab.id/kos');
 
     print(result.statusCode);
     print(result.body);
